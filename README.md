@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 TAFE student currently studying Cert 4 in Programming on my second semester.
+- 🌱 I am currently learning C#, Kotlin, Python, and SQL
+
 <!--
 **tatuhey/tatuhey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
