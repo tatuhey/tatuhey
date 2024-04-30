@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 TAFE student currently studying Cert 4 in Programming on my second semester.
+- 🔭 Just Completed TAFE as a Diploma of Information Technology (Advance Programming)
 - 🌱 I am currently learning C#, Kotlin, Python, and SQL
 
 <!--
